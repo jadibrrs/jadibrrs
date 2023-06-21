@@ -4,7 +4,6 @@
 - 🌱 Aluna do Qa.Coders desde abril de 2023
 - 🌱 Participo de programas de aprendizado de programação: ELas_Na_Tech 2023 e PortalTech
 - ⚡ Curiosidades: pet lover, dorameira e marvelete.
-- 
 
 ## 🛠 Tech Stack:
 
