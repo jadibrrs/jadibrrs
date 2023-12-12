@@ -1,9 +1,9 @@
-# Oi! 👋🏽 Eu sou a Jadi Barros, QA Analyst em formação 
+# Oi! 👋🏽 Sou a Jadi Barros, QA Analyst em formação 
 
 - 🎓 Graduanda em ADS (Faculdade VINCIT)
 - 💼 Estagiária de TI (Gerência de Sistemas - Ministério Público do Estado de Mato Grosso)
 - 📘 Aluna do Qa.Coders de abril a junho de 2023
-- 💻 Participei de outros programas como Portal Tech e Atlântico Avanti Bootcamp
+- 💻 Participei de programas como Portal Tech e Atlântico Avanti Bootcamp
 - ⚡ Curiosidades: pet lover, dorameira e marvelete.
 
 ## 🛠 Tech Stack
