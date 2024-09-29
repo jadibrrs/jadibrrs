@@ -1,4 +1,4 @@
-# Oi! 👋🏽 Sou a Jadi Barros, QA Analyst em formação 
+# Oi! 👋🏽 Sou a Jadi Barros, QA Analyst
 
 - 🎓 Graduanda em ADS (Faculdade VINCIT)
 - 💼 Estagiária de TI (Gerência de Sistemas - Ministério Público do Estado de Mato Grosso)
