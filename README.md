@@ -54,11 +54,6 @@ Graduanda em Análise e Desenvolvimento de Sistemas, minha experiência se conce
 - Bootcamp Básico de Quality Assurance (Atlântico Avanti)
 - Introdução à Programação com foco em Front-end (Proz)
 
-## ⚡ Curiosidades
-- Pet lover
-- Dorameira
-- Marvelete
-
 ## 📲 Contato
 
 <div> 
